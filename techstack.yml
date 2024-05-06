@@ -1,0 +1,583 @@
+repo_name: assistaplus/assp-cms-cockpit-api
+report_id: 9aa2b58b93439901ae2bb39679846976
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-06T13:44:44+00:00'
+requested_by: aheinze
+provider: github
+branch: next
+detected_tools_count: 45
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/mongodb/mongodb/.evergreen/ocsp/mock-ocsp-responder-requirements.txt
+  detection_source: lib/vendor/mongodb/mongodb/.evergreen/ocsp/mock-ocsp-responder-requirements.txt
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/mongodb/mongodb/.evergreen/ocsp/mock-ocsp-responder-requirements.txt
+  detection_source: lib/vendor/mongodb/mongodb/.evergreen/ocsp/mock-ocsp-responder-requirements.txt
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 2.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2013-10-30 15:23:59.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/jean85/pretty-package-versions/codecov.yml
+  detection_source: lib/vendor/jean85/pretty-package-versions/codecov.yml
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api
+  detection_source: Repo Metadata
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/assets/lib/codemirror/theme/eclipse.css
+  detection_source: assets/lib/codemirror/theme/eclipse.css
+  last_updated_by: Artur
+  last_updated_on: 2017-11-12 01:16:06.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api
+  detection_source: Repo Metadata
+- name: PHPStan
+  description: PHP Static Analysis Tool - discover bugs in your code without running
+    it!
+  website_url: https://github.com/phpstan/phpstan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/8333/phpst.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2020-04-29 00:32:59.000000000 Z
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: '6.5'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/composer/package-versions-deprecated/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2020-04-29 00:32:59.000000000 Z
+- name: PhpSpec
+  description: A  toolset for behavior driven development
+  website_url: http://www.phpspec.net/en/latest/
+  version: 7.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Artur
+  last_updated_on: 2017-10-23 11:33:16.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/mongodb/mongodb/.evergreen/ocsp/mock-ocsp-responder-requirements.txt
+  detection_source: lib/vendor/mongodb/mongodb/.evergreen/ocsp/mock-ocsp-responder-requirements.txt
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: Scrutinizer
+  description: Continuous inspection platform - improve code quality and find bugs
+    before they hit production
+  website_url: https://scrutinizer-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2017/a5b5e5e6414e2c07bef76c9d2a29cd46.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/erusev/parsedown-extra/.travis.yml
+  detection_source: lib/vendor/erusev/parsedown-extra/.travis.yml
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/package.json
+  detection_source: package.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2013-10-30 15:23:59.000000000 Z
+- name: Context.IO
+  description: A REST email API that makes it easy and fast to integrate your user's
+    email data in your application.
+  website_url: http://context.io
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/league/flysystem/composer.json
+  detection_source: lib/vendor/league/flysystem/composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: claviska/simpleimage
+  description: A PHP class that makes working with images as simple as possible
+  package_url: https://packagist.org/claviska/simpleimage
+  version: '3.6'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-04-27 12:41:41.000000000 Z
+- name: composer/composer
+  description: Composer helps you declare, manage and install dependencies of PHP
+    projects
+  package_url: https://packagist.org/composer/composer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/composer/package-versions-deprecated/composer.json
+  detection_source: lib/vendor/composer/package-versions-deprecated/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: dealerdirect/phpcodesniffer-composer-installer
+  description: PHP_CodeSniffer Standards Composer Installer Plugin
+  package_url: https://packagist.org/dealerdirect/phpcodesniffer-composer-installer
+  version: 0.7.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/phpmailer/phpmailer/composer.json
+  detection_source: lib/vendor/phpmailer/phpmailer/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: doctrine/annotations
+  description: Docblock Annotations Parser
+  package_url: https://packagist.org/doctrine/annotations
+  version: '1.2'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/phpmailer/phpmailer/composer.json
+  detection_source: lib/vendor/phpmailer/phpmailer/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: erusev/parsedown
+  description: Parser for Markdown
+  package_url: https://packagist.org/erusev/parsedown
+  version: '1.7'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-09-22 11:36:57.000000000 Z
+- name: erusev/parsedown-extra
+  description: An extension of Parsedown that adds support for Markdown Extra
+  package_url: https://packagist.org/erusev/parsedown-extra
+  version: 0.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-09-22 11:36:57.000000000 Z
+- name: firebase/php-jwt
+  description: A simple library to encode and decode JSON Web Tokens
+  package_url: https://packagist.org/firebase/php-jwt
+  version: '5.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: friendsofphp/php-cs-fixer
+  description: A tool to automatically fix PHP code style
+  package_url: https://packagist.org/friendsofphp/php-cs-fixer
+  version: '2.13'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/ksubileau/color-thief-php/composer.json
+  detection_source: lib/vendor/ksubileau/color-thief-php/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2019-01-11 00:50:35.000000000 Z
+- name: jean85/pretty-package-versions
+  description: A library to get pretty versions strings of installed dependencies
+  package_url: https://packagist.org/jean85/pretty-package-versions
+  version: '1.2'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/mongodb/mongodb/composer.json
+  detection_source: lib/vendor/mongodb/mongodb/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: ksubileau/color-thief-php
+  description: Grabs the dominant color or a representative color palette from an
+    image
+  package_url: https://packagist.org/ksubileau/color-thief-php
+  version: '1.3'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2020-04-29 00:32:59.000000000 Z
+- name: league/color-extractor
+  description: Extract colors from an image as a human would do
+  package_url: https://packagist.org/league/color-extractor
+  version: '0.3'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/claviska/simpleimage/composer.json
+  detection_source: lib/vendor/claviska/simpleimage/composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: league/flysystem
+  description: File storage abstraction for PHP
+  package_url: https://packagist.org/league/flysystem
+  version: '1.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: maennchen/zipstream-php
+  description: ZipStream is a library for dynamically streaming dynamic zip files
+    from PHP without writing to the disk at all on the server
+  package_url: https://packagist.org/maennchen/zipstream-php
+  version: 0.5.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2020-04-29 00:32:59.000000000 Z
+- name: mikehaertl/php-shellcommand
+  description: An object oriented interface to shell commands
+  package_url: https://packagist.org/mikehaertl/php-shellcommand
+  version: 1.2.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: mongodb/mongodb
+  description: MongoDB driver library
+  package_url: https://packagist.org/mongodb/mongodb
+  version: '1.3'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: phpcompatibility/php-compatibility
+  description: A set of sniffs for PHP_CodeSniffer that checks for PHP cross-version
+    compatibility
+  package_url: https://packagist.org/phpcompatibility/php-compatibility
+  version: 9.3.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/phpmailer/phpmailer/composer.json
+  detection_source: lib/vendor/phpmailer/phpmailer/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: phpmailer/phpmailer
+  description: PHPMailer is a full-featured email creation and transfer class for
+    PHP
+  package_url: https://packagist.org/phpmailer/phpmailer
+  version: '6.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/composer.json
+  detection_source: composer.json
+  last_updated_by: Artur
+  last_updated_on: 2018-05-27 17:43:07.000000000 Z
+- name: phpspec/prophecy
+  description: Highly opinionated mocking framework for PHP 5.3+
+  package_url: https://packagist.org/phpspec/prophecy
+  version: 1.11.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/league/flysystem/composer.json
+  detection_source: lib/vendor/league/flysystem/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: phpstan/phpstan
+  description: PHPStan - PHP Static Analysis Tool
+  package_url: https://packagist.org/phpstan/phpstan
+  version: 0.12.58
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  version: '6.5'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/composer/package-versions-deprecated/composer.json
+  detection_source: lib/vendor/composer/package-versions-deprecated/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: roave/security-advisories
+  description: 'Prevents installation of composer packages with known security vulnerabilities:
+    no API'
+  package_url: https://packagist.org/roave/security-advisories
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/phpmailer/phpmailer/composer.json
+  detection_source: lib/vendor/phpmailer/phpmailer/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: scrutinizer/ocular
+  description: CLI for uploading external code coverage data
+  package_url: https://packagist.org/scrutinizer/ocular
+  version: '1.6'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: squizlabs/php_codesniffer
+  description: PHP_CodeSniffer tokenizes PHP
+  package_url: https://packagist.org/squizlabs/php_codesniffer
+  version: '2.3'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: symfony/finder
+  description: Finds files and directories via an intuitive fluent interface
+  package_url: https://packagist.org/symfony/finder
+  version: '4.4'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
+- name: symfony/phpunit-bridge
+  description: Provides utilities for PHPUnit
+  package_url: https://packagist.org/symfony/phpunit-bridge
+  version: '5.1'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/assistaplus/assp-cms-cockpit-api/blob/next/lib/vendor/colinodell/json5/composer.json
+  detection_source: lib/vendor/colinodell/json5/composer.json
+  last_updated_by: Artur Heinze
+  last_updated_on: 2021-09-17 09:59:47.000000000 Z
